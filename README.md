@@ -1,1 +1,2 @@
-# Movies_ETL
+# Movies Extract, Transform, Load
+- The purpose of this project is to help create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. I needed to refactor the code from previous projects to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.
